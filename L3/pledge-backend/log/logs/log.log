@@ -1,0 +1,64 @@
+{"level":"info","time":"2025-04-14T11:42:48.499+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"panic","time":"2025-04-14T11:42:48.509+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:37","msg":"mysql connention error ==>  Error 1049: Unknown database 'pledge_v21'","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T11:44:52.806+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"panic","time":"2025-04-14T11:44:52.812+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:37","msg":"mysql connention error ==>  Error 1049: Unknown database 'pledge_v21'","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T11:47:58.994+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T11:47:59.003+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T11:52:26.128+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T11:52:26.135+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:03:00.643+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:03:00.651+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:03:00.812+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:03:00.813+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T12:03:00.815+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:12:55.038+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:12:55.047+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:12:55.214+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:12:55.214+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T12:12:55.218+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:13:28.850+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:13:28.857+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:13:29.001+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:13:29.001+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T12:13:59.121+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:14:26.128+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:14:26.136+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:14:26.286+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T12:14:26.286+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T12:14:30.654+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T12:48:45.250+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:66","msg":"Error: Wait pong message timeout in 10000 ms","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T14:44:03.692+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T14:44:03.705+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T14:44:03.858+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"info","time":"2025-04-14T14:44:03.858+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T14:44:08.547+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"error","time":"2025-04-14T14:48:03.277+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/services/poolService.go:19","msg":"Error 1054: Unknown column 'chain_id' in 'where clause'","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:36:55.541+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:36:55.552+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:36:56.280+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:36:56.280+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"error","time":"2025-04-16T14:36:56.285+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:44:16.294+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/services/userService.go:20","msg":"contractService&{admin password}","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:45:12.574+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:45:59.284+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:48:21.307+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:48:43.333+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:48:45.936+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:49:09.483+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:51:34.813+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:55:07.507+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:55:07.514+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:55:07.669+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:55:07.669+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"error","time":"2025-04-16T14:55:07.672+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:56:11.057+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:59:17.201+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:59:17.209+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:59:17.360+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/ws/ws.go:118","msg":"WsServer start","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:59:17.360+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:17","msg":"GetExchangePrice ","serviceName":"pledge"}
+{"level":"error","time":"2025-04-16T14:59:17.363+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:22","msg":"get plgr price from redis err redigo: nil returned","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T14:59:33.018+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T15:04:13.636+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T15:05:57.757+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
+{"level":"error","time":"2025-04-16T15:06:24.621+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/models/kucoin/kucoin.go:66","msg":"Error: Wait pong message timeout in 10000 ms","serviceName":"pledge"}
+{"level":"info","time":"2025-04-16T15:06:51.442+0800","line":"/Users/dulin/Desktop/web3/pledge-backend/api/controllers/multiSignPoolController.go:42","msg":"GetMultiSign req <nil>","serviceName":"pledge"}
